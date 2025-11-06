@@ -3,3 +3,4 @@
 Branching allows you to change the code without affecting the main branch.
 
 A pull request is used to propose changes from one branch to another.
+
